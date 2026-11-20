@@ -13,4 +13,4 @@ int main(){
     cout << sizeof(float) << endl;          // Константы типа doible - имеют ()             -> 3.1212
     cout << sizeof(double) << endl;         // Константы типа float - имеют (F или f)        -> 3.1212F
     cout << sizeof(long double) << endl;    // Константы типа long double  - имеют(L или l)   -> 3.1212L
-}
+} 
