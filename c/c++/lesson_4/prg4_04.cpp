@@ -27,7 +27,8 @@ void math_task(double x) {
     double y = a + b;           // 1 операция (всего 7)
     double z = a - b;           // 1 операция (всего 8) — ровно 8 операций!
     
-    cout << "x = " << x << " | y = " << y << " | z = " << z << '\
+    cout << "x = " << x << " | y = " << y << " | z = " << z << ';
+        
 void cost_students(int N, int K, int M) {
     cout << "Стоимость учебника: " << N << " руб. " << K << " коп.\n";
     cout << "Количество учебников M = " << M << '\n';
