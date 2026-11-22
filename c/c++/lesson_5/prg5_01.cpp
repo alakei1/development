@@ -23,7 +23,9 @@ a и b — логические выражения, то выполняются 
 !(a && b) == !a || !b
 
 */
-#include<iostream> 
+#include<iostream>
+#include<string> 
+
 using namespace std;
 
 void conditional_operation(){
@@ -40,6 +42,7 @@ void conditional_operation(){
     cout << "разберем вот такой код: "<< '\n'
     << "(1.5)? cout << \"!=0\" : cout << \"==0\";"<<'\n'<< "Будет равно ";
     (1.5)? cout << "!=0"<< endl: cout << "==0"<< endl;
+    cout << string(20,'=') << endl;
 
 }
 
@@ -70,16 +73,56 @@ void operation_comma(){
     (a!=0)?
         (x=-b/a,cout << "a не равен 0 значит x = "<< x): 
         (cout << "a = 0, решения нету"), cout << endl;
+    cout << string(20,'=') << endl;
+}
 
+void conditional_statements(){
+    /*Програма Транслируется без ошибок и выполняется.Однако выясняется,
+    что при любый значениях num Всегда выводится True.Дело в том что 
+    операция сравнения левофссоциативны и выражения 1<=num<=9 вычисляются
+    вычесляются последовательно слево на право: (1<=num)<=9.Так какрезультатом 
+    сравнения является логическое значение true false происходит не явное 
+    преоброзование логической константы в целое число Если результат преоброзавание равен 1 
+    усле же выражение ложно то - 0 тоесть всегда будет 0 или 1 меньше 9*/
 
+    int num; cout << "Ведите число от 1 до 9 - ";cin >> num,'\n';
 
+    if (1 <= num <= 9 )cout << "True"  << endl;
+    else cout << "False" << endl;
 
+    cout << string(20,'=') << endl;
+
+    //Немного изменим условие
+    if ((1<=num) && (num<=9)) cout << "True" << endl;
+    else cout << "False" << endl;
+    cout << string(20,'=') << endl;
+}
+void multiplication_table_using_checking_multiplier(){
+    // ТАблица умножение с проверкой множителя
+    string request = "Ведиет множатель больше 1  меньше 9 : ";
+    int multiplier;cout << request ; cin >> multiplier;
+
+    if((0<multiplier)&&(multiplier<10)){
+    cout << multiplier << "*1 = " << multiplier*1<< endl;        
+    cout << multiplier << "*2 = " << multiplier*2<< endl;        
+    cout << multiplier << "*3 = " << multiplier*3<< endl;        
+    cout << multiplier << "*4 = " << multiplier*4<< endl;        
+    cout << multiplier << "*5 = " << multiplier*5<< endl;
+    cout << multiplier << "*6 = " << multiplier*6<< endl;
+    cout << multiplier << "*7 = " << multiplier*7<< endl;
+    cout << multiplier << "*8 = " << multiplier*8<< endl;
+    cout << multiplier << "*9 = " << multiplier*9<< endl;
+    cout << multiplier << "*10= " <<multiplier*10<< endl;           
+    }
+    
+    else cout << "Неправильное значение множителя!" << endl;
 
 
 }
-
 int main () {
     conditional_operation();
     operation_comma();
+    conditional_statements();
+    multiplication_table_using_checking_multiplier();
 
 }
