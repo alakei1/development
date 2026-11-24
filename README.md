@@ -8,35 +8,13 @@
 
 <p>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /></a>
-</p>
-
-<p>
-  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /></a>
-  <a href="https://www.sqlalchemy.org/"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white" alt="SQLAlchemy" /></a>
-  <a href="https://alembic.sqlalchemy.org/"><img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square&logoColor=white" alt="Alembic" /></a>
-  <a href="https://docs.pydantic.dev/"><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" /></a>
-  <a href="https://docs.celeryq.dev/"><img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" /></a>
-  <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /></a>
-  <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" /></a>
-  <a href="https://swagger.io/"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" /></a>
-</p>
-
-<p>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /></a>
-  <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
 </p>
 
 </div>
@@ -147,6 +125,19 @@
   <a href="https://coverage.readthedocs.io/"><img src="https://img.shields.io/badge/coverage-3776AB?style=flat-square&logo=python&logoColor=white" alt="coverage" /></a>
 </p>
 
+### C++ и системное программирование
+
+<p>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+  <a href="https://en.cppreference.com/w/cpp/container"><img src="https://img.shields.io/badge/STL-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="STL" /></a>
+  <a href="https://cmake.org/"><img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" /></a>
+  <a href="https://www.gnu.org/software/make/"><img src="https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=make&logoColor=white" alt="Makefile" /></a>
+  <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white" alt="GCC" /></a>
+  <a href="https://clang.llvm.org/"><img src="https://img.shields.io/badge/Clang-262D3A?style=flat-square&logo=llvm&logoColor=white" alt="Clang" /></a>
+  <a href="https://valgrind.org/"><img src="https://img.shields.io/badge/Valgrind-8B1A1A?style=flat-square&logoColor=white" alt="Valgrind" /></a>
+  <a href="https://github.com/google/googletest"><img src="https://img.shields.io/badge/GoogleTest-4285F4?style=flat-square&logo=google&logoColor=white" alt="GoogleTest" /></a>
+</p>
+
 ### Инструменты разработки
 
 <p>
@@ -155,8 +146,6 @@
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" /></a>
   <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" /></a>
-  <a href="https://cmake.org/"><img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" /></a>
-  <a href="https://www.gnu.org/software/make/"><img src="https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=make&logoColor=white" alt="Makefile" /></a>
   <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white" alt="Poetry" /></a>
   <a href="https://pip.pypa.io/"><img src="https://img.shields.io/badge/pip-3776AB?style=flat-square&logo=pypi&logoColor=white" alt="pip" /></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /></a>
@@ -191,41 +180,58 @@
 
 ---
 
-## Технологический стек
+## C++ Developer
+
+| Тема | Содержание |
+|---|---|
+| **Основы** | Синтаксис, типы данных, указатели и ссылки, стек и куча |
+| **Управление памятью** | `new / delete`, RAII, умные указатели (`unique_ptr`, `shared_ptr`, `weak_ptr`) |
+| **ООП** | Классы, наследование, полиморфизм, виртуальные функции |
+| **STL** | `vector`, `map`, `set`, `unordered_map`, алгоритмы, итераторы |
+| **Шаблоны** | `templates`, специализация, метапрограммирование |
+| **Многопоточность** | `std::thread`, `mutex`, `atomic`, `condition_variable` |
+| **Сборка** | CMake, Makefile, GCC / Clang, линковка |
+| **Тестирование** | GoogleTest, Valgrind, sanitizers (ASan, UBSan) |
+
+📁 Материалы: **[cpp/README.md](cpp/README.md)**
+
+---
+
+## Сводная таблица стека
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 12px;">
   <tr>
-    <td style="width: 25%; padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px; vertical-align: middle;">
-      <strong>Язык</strong><br/>
-      <sub>Python 3, ООП, asyncio</sub>
+    <td style="width: 25%; padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px;">
+      <strong>Языки</strong><br/>
+      <sub>Python 3, C++, SQL, Bash</sub>
     </td>
-    <td style="width: 25%; padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px; vertical-align: middle;">
+    <td style="width: 25%; padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px;">
       <strong>Фреймворки</strong><br/>
       <sub>FastAPI, Flask, Django, DRF</sub>
     </td>
-    <td style="width: 25%; padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px; vertical-align: middle;">
+    <td style="width: 25%; padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px;">
       <strong>Базы данных</strong><br/>
       <sub>PostgreSQL, SQLAlchemy, Redis</sub>
     </td>
-    <td style="width: 25%; padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px; vertical-align: middle;">
+    <td style="width: 25%; padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px;">
       <strong>Инфраструктура</strong><br/>
       <sub>Linux, Docker, CI/CD, Nginx</sub>
     </td>
   </tr>
   <tr>
-    <td style="padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px; vertical-align: middle;">
+    <td style="padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px;">
       <strong>Тестирование</strong><br/>
-      <sub>pytest, Mock</sub>
+      <sub>pytest, Mock, GoogleTest</sub>
     </td>
-    <td style="padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px; vertical-align: middle;">
+    <td style="padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px;">
       <strong>Данные</strong><br/>
       <sub>Pandas, NumPy</sub>
     </td>
-    <td style="padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px; vertical-align: middle;">
+    <td style="padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px;">
       <strong>ИИ</strong><br/>
       <sub>ML, NLP, нейросети</sub>
     </td>
-    <td style="padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px; vertical-align: middle;">
+    <td style="padding: 16px; text-align: center; border: 1px solid rgba(128,128,128,0.2); border-radius: 8px;">
       <strong>Боты</strong><br/>
       <sub>Telegram, VK</sub>
     </td>
@@ -241,3 +247,4 @@
 * **[python_Django](python_Django/README.md)** — Веб-разработка на Django и DRF
 * **[python_pandas](python_pandas/README.md)** — Аналитика данных на Pandas
 * **[python_ai_cs50](python_ai_cs50/README.md)** — Искусственный интеллект (курс Гарварда)
+* **[cpp](cpp/README.md)** — Системное программирование на C++: STL, ООП, память, многопоточность
