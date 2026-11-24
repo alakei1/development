@@ -146,4 +146,26 @@
       </g>
     </g>
   </a>
+    <!-- Карточка 6: C++ -->
+  <a xlink:href="cpp/README.md" href="cpp/README.md" target="_blank" rel="noopener">
+    <g class="tile t5">
+      <rect class="tile-bg" x="40" y="1240" width="880" height="340" rx="14" fill="#111113" stroke="rgba(255,255,255,0.08)"/>
+      <g transform="translate(40,1240)">
+        <text class="title" x="28" y="48" font-family="'Inter',sans-serif" font-size="22" font-weight="700" fill="#f4f4f5" letter-spacing="-0.3">C++ Developer</text>
+        <text x="28" y="90" font-family="'Inter',sans-serif" font-size="16" font-weight="400" fill="#a1a1aa">
+          <tspan x="28" dy="28"><tspan fill="#f4f4f5" font-weight="600">Синтаксис</tspan>, типы данных, указатели и ссылки,</tspan>
+          <tspan x="28" dy="26">управление памятью (<tspan fill="#f4f4f5" font-weight="600">new / delete</tspan>), стек и куча,</tspan>
+          <tspan x="28" dy="26">ООП: классы, наследование, полиморфизм, виртуальные функции,</tspan>
+          <tspan x="28" dy="26"><tspan fill="#f4f4f5" font-weight="600">STL</tspan>: vector, map, set, алгоритмы и итераторы,</tspan>
+          <tspan x="28" dy="26">шаблоны (<tspan fill="#f4f4f5" font-weight="600">templates</tspan>), <tspan fill="#f4f4f5" font-weight="600">RAII</tspan>, умные указатели,</tspan>
+          <tspan x="28" dy="26">многопоточность (<tspan fill="#f4f4f5" font-weight="600">std::thread</tspan>), <tspan fill="#f4f4f5" font-weight="600">CMake</tspan> и сборка.</tspan>
+        </text>
+        <rect x="28" y="285" width="60" height="28" rx="6" fill="rgba(0,89,156,0.15)"/>
+        <text x="58" y="304" font-family="'Inter',sans-serif" font-size="13" font-weight="600" fill="#00599C" text-anchor="middle">C++</text>
+        <rect x="98" y="285" width="60" height="28" rx="6" fill="rgba(0,89,156,0.15)"/>
+        <text x="128" y="304" font-family="'Inter',sans-serif" font-size="13" font-weight="600" fill="#00599C" text-anchor="middle">STL</text>
+        <text class="btn" x="852" y="305" font-family="'JetBrains Mono',monospace" font-size="14" font-weight="700" fill="#71717a" text-anchor="end">Открыть →</text>
+      </g>
+    </g>
+  </a>
 </svg>
