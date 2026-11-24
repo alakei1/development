@@ -30,8 +30,6 @@
 
 <div align="center">
 
-### 🐍 Python
-
 <p>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
@@ -56,8 +54,6 @@
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
 </p>
 
-### ⚙️ C++
-
 <p>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
   <a href="https://en.cppreference.com/w/cpp/container"><img src="https://img.shields.io/badge/STL-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="STL" /></a>
@@ -74,9 +70,6 @@
   <a href="https://vcpkg.io/"><img src="https://img.shields.io/badge/vcpkg-00599C?style=flat-square&logoColor=white" alt="vcpkg" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /></a>
 </p>
-
-### 🧰 Прочие технологии
-
 <p>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" /></a>
@@ -132,7 +125,7 @@
 | **Сборка** | CMake, Makefile, GCC / Clang, линковка |
 | **Тестирование** | GoogleTest, Valgrind, sanitizers (ASan, UBSan) |
 
-📁 Материалы: **[cpp/README.md](cpp/README.md)**
+Материалы: **[cpp/README.md](cpp/README.md)**
 
 ---
 
@@ -186,4 +179,4 @@
 * **[python_Django](python_Django/README.md)** — Веб-разработка на Django и DRF
 * **[python_pandas](python_pandas/README.md)** — Аналитика данных на Pandas
 * **[python_ai_cs50](python_ai_cs50/README.md)** — Искусственный интеллект (курс Гарварда)
-* **[cpp](cpp/README.md)** — Системное программирование на C++: STL, ООП, память, многопоточность
+* **[cpp](c/c++/README.md)** — Системное программирование на C++: STL, ООП, память, многопоточность
