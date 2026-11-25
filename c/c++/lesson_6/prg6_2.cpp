@@ -1,4 +1,4 @@
-// Високосный год (while)
+// Високосный год (while) 
 
 #include<iostream>
 
@@ -11,7 +11,7 @@ int main () {
     
     while (year > 0){
         cout << "Загадайте год :"; cin >> year;
-        
+
         if (((year % 100)&&(!(year %4))) || (!(year % 400)))
             cout << "Год високосный!\n";
         else cout << "Год не високосный\n";
