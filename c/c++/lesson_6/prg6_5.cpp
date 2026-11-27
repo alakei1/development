@@ -18,7 +18,7 @@ int main () {
     cout << "Ведите множитель от 0 до 9: "; cin >> num;
     if ((0<num)&&(num<10))
         {
-            for(int i; i<10; ++i)
+            for(int i{1}; i<10; ++i)
                 cout << num << '*' << i << '=' << num*i << endl;
         }
     else cout << "множитель не в диапазоне (0:9) ведите верное значение" << endl;
