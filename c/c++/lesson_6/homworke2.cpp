@@ -7,10 +7,10 @@
 using namespace std;
 
 int main (){
-    unsigned int number {};
-    unsigned int a{};
+    int number {};
+    int a{};
     int c{};
-    unsigned int count {};
+    int count {};
 
     cout << "Ведите числов -> "; cin >> number;
 
@@ -34,7 +34,7 @@ int main (){
             }
             
         }
-        
+
     cout << string(20 ,'=') << '\n';
     cout << "Итого комбинаий: " << count << endl;
 
